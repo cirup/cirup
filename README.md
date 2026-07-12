@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/cirup/cirup/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cirup/cirup/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cirup/cirup/output/github-contribution-grid-snake.svg" />
+        <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/cirup/cirup/output/github-contribution-grid-snake.svg" />
+    </picture>
 </div>
 
 
-# 👨🏻‍💻Programming Languages
+# 👨🏻‍💻 Programming Languages
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -17,13 +21,13 @@
 </div>
 
 
-# ☁︎Cloud Technologies
+# ☁︎ Cloud Technologies
 <div align="center">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-# 🗺️Frameworks
+# 🗺️ Frameworks
 <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
